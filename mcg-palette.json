@@ -293,8 +293,6 @@
         "800": { "value": "#37474f", "darkContrast": false },
         "900": { "value": "#263238", "darkContrast": false }
       }
-      "black": { "value": "#000" },
-      "white": { "value": "#fff" }
     }
   }
 }
